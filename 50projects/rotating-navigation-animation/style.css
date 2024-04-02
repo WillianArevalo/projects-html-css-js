@@ -1,0 +1,151 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Ubuntu+Condensed&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  overflow-x: hidden;
+}
+
+.circle {
+  position: fixed;
+  z-index: 1000;
+}
+
+.circle.rotate .circle-container {
+  transform: rotate(-90deg);
+}
+
+.circle-container {
+  top: -80px;
+  left: -80px;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #f1c40f;
+  transition: all 0.2s ease-in-out;
+}
+
+.circle .circle-container button {
+  color: #fff;
+  background-color: transparent;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: "Ubuntu Condensed", sans-serif;
+  font-size: 1.2em;
+}
+
+.circle button i {
+  font-size: 1.5em;
+}
+
+.circle #open {
+  position: absolute;
+  top: 105px;
+  right: 30px;
+}
+
+.circle #close {
+  position: absolute;
+  bottom: 50px;
+  left: 40px;
+}
+
+.container {
+  padding-top: 90px;
+  padding-inline: 300px;
+  transform-origin: top left;
+  transition: all 0.2s ease-in-out;
+  background-color: #fff;
+  padding-bottom: 90px;
+}
+
+.container.show-nav {
+  transform: rotate(-25deg);
+}
+
+.container h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+  font-family: "Amatic SC", cursive;
+  font-weight: bold;
+}
+
+.container small {
+  font-size: 0.9em;
+  display: block;
+  font-style: italic;
+  margin-bottom: 20px;
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+.container .content-text {
+  font-size: 1.2em;
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+.container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.container h2 {
+  margin-top: 40px;
+  font-size: 2em;
+  margin-bottom: 20px;
+  font-family: "Amatic SC", cursive;
+}
+
+nav {
+  position: fixed;
+  width: 20%;
+  left: 0;
+  bottom: 200px;
+}
+
+nav ul {
+  padding-top: 200px;
+  display: flex;
+  gap: 40px;
+  flex-direction: column;
+}
+
+nav ul li {
+  display: inline;
+  margin-left: 40px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-family: "Ubuntu Condensed", sans-serif;
+  font-size: 1.2em;
+}
+
+nav ul li a:hover {
+  color: #f1c40f;
+}
+
+nav ul li a:before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 2px;
+  background-color: #f1c40f;
+  transition: width 0.3s;
+  position: relative;
+  top: 25px;
+}
+
+nav ul li a:hover:before {
+  width: 30%;
+}

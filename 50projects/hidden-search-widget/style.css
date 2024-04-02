@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Ubuntu+Condensed&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(45deg, #f3ec78, #af4261);
+}
+
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container input {
+  width: 0px;
+  height: 50px;
+  opacity: 0;
+  background-color: #000;
+  border: none;
+  outline: none;
+  color: #fff;
+  transition: all 0.3s ease-in;
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+.container input.active {
+  width: 300px;
+  padding: 0 10px;
+  opacity: 1;
+}
+
+.container .icon {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000;
+  border: none;
+  cursor: pointer;
+}
+
+.container .icon i {
+  color: #fff;
+}

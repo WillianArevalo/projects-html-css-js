@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-inline: 30px;
+}
+
+.card {
+  position: relative;
+  flex: 0.5;
+  height: 80%;
+  background: #333;
+  border-radius: 50px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.8s ease-in;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card h1 {
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  color: #000;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  z-index: 1;
+  opacity: 0;
+  background-color: #fff;
+  padding: 5px 50px;
+  border-radius: 50px;
+}
+
+.card.active {
+  flex: 5;
+}
+
+.card.active h1 {
+  opacity: 1;
+  transition: opacity 0.3s ease-in 0.4s;
+  font-family: "Bebas Neue", cursive;
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: 0.5s;
+}
