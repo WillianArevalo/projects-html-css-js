@@ -13,6 +13,11 @@ El repositorio se estructura en dos carpetas, los proyectos de práctica de 50pr
 - [Rotating navigation animation: animación de rotación de una pagina y se muestra el navbar](/50projects/rotating-navigation-animation)
 - [Social links profile: diseño de los links en una perfil de usuario](/frontend-mentor-solutions/social-links-profile)
 
+| # | Project |
+| | ----------------------------------------------------------------------------------------------------------------------- |
+| 01 | [50projects](https://github.com/WillianArevalo/projects-html-css-js/tree/main/50projects) |
+| 02 | [Frontend Mentor Solutions](https://github.com/WillianArevalo/projects-html-css-js/tree/main/frontend-mentor-solutions) |
+
 ## Autor
 
 - [Willian Arevalo](https://github.com/WillianArevalo) - Desarrollador Web
