@@ -24,7 +24,7 @@ Design of a page about cooking.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-recibe-page-main-CCUry_Jzir)
 - Live Site URL: [Add live site URL here](https://projects-html-css-js-hazel.vercel.app/frontend-mentor-solutions/recipe-page-main/index.html)
 
 ## My process
@@ -41,6 +41,5 @@ I learned to adapt my website to smaller screens.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/WillianArevalo)
+- Frontend Mentor - [@WillianArevalo](https://www.frontendmentor.io/profile/WillianArevalo)
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/WillianArevalo)
