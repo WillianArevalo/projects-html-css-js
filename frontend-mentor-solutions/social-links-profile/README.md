@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/frontend-mentor-social-links-profile-Vx0gZXa05X)
-- Live Site URL: [Add live site URL here](https://projects-html-css-js-hazel.vercel.app/frontend-mentor-solutions/social-links-profile/index.html)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/frontend-mentor-social-links-profile-Vx0gZXa05X)
+- Live Site URL: [View Solution](https://projects-html-css-js-hazel.vercel.app/frontend-mentor-solutions/social-links-profile/index.html)
 
 ## My process
 

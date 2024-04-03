@@ -23,8 +23,8 @@ Desing blog card preview
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-responsive-with-position-css-LC77sa-fe9)
+- Live Site URL: [View Solution](https://projects-html-css-js-hazel.vercel.app/frontend-mentor-solutions/blog-preview-card-main/index.html)
 
 ### Built with
 

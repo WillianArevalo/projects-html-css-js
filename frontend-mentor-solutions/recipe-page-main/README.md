@@ -24,8 +24,8 @@ Design of a page about cooking.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-recibe-page-main-CCUry_Jzir)
-- Live Site URL: [Add live site URL here](https://projects-html-css-js-hazel.vercel.app/frontend-mentor-solutions/recipe-page-main/index.html)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-recibe-page-main-CCUry_Jzir)
+- Live Site URL: [View Solution](https://projects-html-css-js-hazel.vercel.app/frontend-mentor-solutions/recipe-page-main/index.html)
 
 ## My process
 
