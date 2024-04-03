@@ -14,7 +14,7 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ## Overview
 
-Desing sign up with message success.
+Desing sign up with message success and validation input email. 
 
 ### Screenshot
 
@@ -34,7 +34,7 @@ Desing sign up with message success.
 - Flexbox
 - Position CSS
 - Animation CSS
-
+- JavaScript
 
 ### What I learned
 
