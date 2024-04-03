@@ -19,8 +19,8 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/landing-page-with-curved-section-footer-qhn-OGXExj)
+- Live Site URL: [View solution](https://projects-html-css-js-hazel.vercel.app/frontend-mentor-solutions/huddle-landing-page-with-curved-sections-master/index.html)
 
 ## My process
 
