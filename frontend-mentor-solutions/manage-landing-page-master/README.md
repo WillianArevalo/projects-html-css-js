@@ -20,8 +20,8 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [View solution](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/landing-page-with-navbar-responsive-b5OM88yijS)
+- Live Site URL: [View solution](https://projects-html-css-js-hazel.vercel.app/frontend-mentor-solutions/manage-landing-page-master/index.html)
 
 ## My process
 
