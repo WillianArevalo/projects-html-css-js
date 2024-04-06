@@ -47,30 +47,6 @@ body.active {
   overflow-y: hidden;
 }
 
-.background-image {
-  background-image: url("../images/bg-tablet-pattern.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 700px;
-  height: 700px;
-  position: absolute;
-  z-index: -10;
-  top: -110px;
-  left: 850px;
-}
-
-.background-image-2 {
-  background-image: url("../images/bg-tablet-pattern.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 700px;
-  height: 700px;
-  position: absolute;
-  z-index: -10;
-  top: 1000px;
-  right: 1220px;
-}
-
 header {
   width: 80%;
   position: relative;
@@ -646,18 +622,6 @@ footer {
   font-size: 14px;
 }
 
-@media (max-width: 1285px) {
-  .background-image {
-    top: -110px;
-    left: 670px;
-  }
-
-  .background-image-2 {
-    top: 900px;
-    right: 990px;
-  }
-}
-
 @media (max-width: 1000px) {
   .nav .cta {
     display: none;
@@ -667,19 +631,9 @@ footer {
     display: none;
   }
 
-  .background-image {
-    top: -110px;
-    left: 400px;
-  }
-
   .button-hamburger {
     display: flex;
     margin-bottom: 10px;
-  }
-
-  .background-image-2 {
-    top: 1100px;
-    right: 690px;
   }
 
   .testimoials-body {
@@ -714,16 +668,6 @@ footer {
 }
 
 @media (max-width: 700px) {
-  .background-image {
-    top: -110px;
-    left: 100px;
-  }
-
-  .background-image-2 {
-    top: 500px;
-    left: 300px;
-  }
-
   .hero {
     flex-direction: column-reverse;
   }
