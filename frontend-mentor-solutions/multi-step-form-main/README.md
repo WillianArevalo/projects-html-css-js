@@ -35,5 +35,4 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
 
 ## Author
 
-
 - Frontend Mentor - [@WillianArevalo](https://www.frontendmentor.io/profile/WillianArevalo)
