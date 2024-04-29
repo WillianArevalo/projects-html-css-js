@@ -19,8 +19,8 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/landing-page-with-curved-section-footer-qhn-OGXExj)
-- Live Site URL: [View solution](https://projects-html-css-js-hazel.vercel.app/frontend-mentor-solutions/huddle-landing-page-with-curved-sections-master/index.html)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/ecommerce-product-page-responsive-GybllACy1x)
+- Live Site URL: [View solution](https://projects-html-css-js-hazel.vercel.app/frontend-mentor-solutions/ecommerce-product-page-main/index.html)
 
 ## My process
 
